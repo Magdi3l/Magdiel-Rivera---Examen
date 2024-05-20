@@ -1,0 +1,14 @@
+
+.card {
+  transition: transform 0.2s;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+footer {
+  border-top: 1px solid #e5e5e5;
+  margin-top: 3rem;
+  padding-top: 1rem;
+}

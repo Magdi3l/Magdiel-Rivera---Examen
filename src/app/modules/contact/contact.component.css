@@ -1,0 +1,22 @@
+
+
+.jumbotron {
+  background-color: #f8f9fa;
+  padding: 2rem 1rem;
+}
+
+footer {
+  border-top: 1px solid #e5e5e5;
+  margin-top: 3rem;
+  padding-top: 1rem;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+  border-color: #0056b3;
+}
